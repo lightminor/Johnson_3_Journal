@@ -1,0 +1,8 @@
+	September , 15 , 2015
+
+Question: What is an IDE?  what is it good for?
+
+
+Answer: an IDE is an computer program that has many useful programs for coders and 
+computer programmers , it typically has a Source-code editor , build automation tools 
+and a debugger . some more modern IDE's have intelligent code completion
