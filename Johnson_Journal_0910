@@ -1,0 +1,15 @@
+Journal of September , 10 , 2015
+
+The Steps to creating and uploading a journal each day are :
+
+	1. Create the journal with >nano Journal_of_Day
+	
+	2. write out the journal in nano
+	
+	3. Save the journal using Ctrl X 
+
+	4. Upload it to GitHub using , the following :
+
+		>git add *
+		>git commit "Journal Name"
+		>git push origin master
