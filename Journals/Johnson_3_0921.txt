@@ -1,0 +1,13 @@
+Questions : Look at ParentPortal.
+
+Have you received credit for all journals?
+
+Why is it important that you use the naming convention specified when naming files?
+
+What is the command to copy in Linux? to copy all of a directory to the current 
+directory?
+
+
+Answers : I cannot access Parent Portal , I do not know if i was given credit for
+my journals , it is important to use a naming convention because it tells the reader 
+who the author is , the command to copy in linux is : cp 
