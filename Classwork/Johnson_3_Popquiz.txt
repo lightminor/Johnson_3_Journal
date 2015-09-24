@@ -1,0 +1,7 @@
+Question : What is the difference btetween MIT and GPL licenses ?
+
+
+The Difference Between MIT and GPL Licecense is that the GPL limits you to only certain
+parts while the MIT says you can edit/share/use  anything owned by MIT 
+
+we will use the GPL becasue the GPL 
