@@ -1,0 +1,9 @@
+Sept. 28 , 2015
+
+	Question : How can you count in java? , how can you check to see if a number
+is divisble? ,how can you track if a number has a divisor?
+
+
+	Answers : to count in java you need to make a for loop , to see if a number 
+ is divisible you can use an modulo or (%) , to track if a number has a divisor, you 
+ need to use a bunch of "if" statements  
