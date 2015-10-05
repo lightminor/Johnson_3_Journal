@@ -1,0 +1,34 @@
+Define the Following :
+
+Paid licencse, a license that is paid for allowing the use of/modification of/sharing
+of products by the licesner
+
+Shareware, a program available for free and is given to everybody although you might
+pay later
+
+Trialware, a program that is at first but after a certain amount of time you 
+WILL have to pay money to reactivate it 
+
+Ad-ware, a software that immediately puts ads on your internet broswer as soon 
+log sometimes via downloading or via a hosting service
+
+Crippleware, a program distributed with badly made compoentns with the hopes of making  
+the user pay for a better version.
+
+Freemium , a way to make money by advertising the item as free then charging money 
+for other features and pieces of the item
+
+FreeWare (vs Free-OpenSource)
+Freeware is software distributed for free but all rights are still given to the makers
+Opensource is software that you is free and you can edit the source code and change
+anything you want without repercussions
+
+Richard Stallman
+a freedom of software advocate , helped make GNU , creator of GNU Linux
+
+Lawrence Lessig
+Laywer who wants to lessen the laws on copyright and trademarks, is running for 
+president this year  
+
+Eben Moglen
+law proferssor at Harvard University and is a big supporter of the FSF
