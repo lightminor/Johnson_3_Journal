@@ -1,0 +1,12 @@
+October 5 , 2015
+
+
+For the journal today, describe the following:
+
+What are CODE COMMENTS? What are they good for?
+
+
+Code Comments are made by using // /* and */ they are notes made by the author to
+himself or the user , they can be usefull for reminding yourself or a user what 
+the code is without looking through many lines of code , they can have a number uses
+other than that though , they can be used to do anything the author can write down.
