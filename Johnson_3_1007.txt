@@ -9,7 +9,8 @@
 	Answers : a Java class is an class under Java where objects and made and used.
 		
 	          the difference between Java and JavaFX classes is that JavaFX classes
-		  use libraries and Java classes usaually dont.
+		  use more imported libraries and Java classes usaually dont use 
+		  them as much.
 
 		  a method would be within the class.
 
