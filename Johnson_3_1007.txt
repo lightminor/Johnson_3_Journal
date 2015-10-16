@@ -1,0 +1,16 @@
+ October  7 , 2015
+	
+	Questions : what is a Java class?
+
+		    what might a Java class be for JavaFX?
+
+                    what might be a method for class? 
+
+	Answers : a Java class is an class under Java where objects and made and used.
+		
+	          the difference between Java and JavaFX classes is that JavaFX classes
+		  use more imported libraries and Java classes usaually dont use 
+		  them as much.
+
+		  a method would be within the class.
+

@@ -1,0 +1,25 @@
+October , 8 , 2015
+	
+Questions : 
+
+
+What are your tentative thoughts / plans for your art project?
+
+What might be methods you will use?
+
+How might you incorporate a for loop?
+
+How might you incorporate, if, else if, else?
+
+What math might you use?     
+	
+		
+Answers :
+
+I want to make the program have multiple tools and accesories with easy accessablity
+
+i will use many types of methods to achieve the goal
+
+I could have a for loop allowing me to paint continusly 
+
+I could use if else statements to create a multiple click-paint interface

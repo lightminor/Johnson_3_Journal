@@ -1,0 +1,19 @@
+October 6 , 2015
+
+Questions : 
+
+	what are methods?
+	what are classes?
+	what is an instance?
+	what are class methods?
+
+Answers : 
+
+Methods are like a subprogram inside a program
+
+Classes are recipes for a completed program
+
+Instances are variables that are shaped by the class
+
+Class Methods are methods that use classes instead of instances
+ 
