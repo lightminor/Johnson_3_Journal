@@ -1,0 +1,11 @@
+
+What slick game did you create?
+I Have not finished my game
+
+What challenges did you solve
+I figured out how make animations work and how to check if a button is pressed
+
+Before the Winter break, you were admonished to finish your maps and spritesheets - so that you would be ready to go with the game when we got back. Did you? Why or why not?
+yes i did , because it gave me time to work on my code
+Were you able to meet the timeline? Why or why not? [Focus on what you did or did not do. Journals ascribing blame to others will not be considered.
+no i was not , because I had much code i needed to do ,and not enough time

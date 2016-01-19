@@ -1,0 +1,16 @@
+November 16 , 2015
+
+Questions :
+
+No, really, How will you use methods in your game? Why?
+
+Be specific.
+
+What values will you pass to them.
+
+Answers
+
+I will use methods by running most of code through them , which would allow me to choose
+specific methods that contain the code i need , some of the values that would be used are 
+EnemyHP , PlayerHP , PlayerAtk(attack power), PlayerAC(the player's armor class) and many 
+other variables and values

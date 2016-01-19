@@ -1,0 +1,26 @@
+November , 5 , 2015
+
+Questions : Imagine you are explaining to a younger sibling or parent, Describe:
+
+1 What are strings?
+2 What are they good for?
+3 What are some string methods?
+4 How do we identify string methods?
+
+
+Answers  :
+
+1. Strings are a kind data type that can be used in code , they are variables that contain 
+letters and non-number characters
+
+2. they can be useful when creating names or desricptions for objects
+
+3.  Some examples of Strings are :
+	static String EnemyName;
+	static String EnemyWeaponName;
+	static String EnemyArmorName; 
+	static String PlayerAction;
+	static String EnemyAction;
+
+4. String methods are recognized as Strings thanks to the identifier String (always with a 
+capial S) which goes infront of the variable

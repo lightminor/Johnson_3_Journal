@@ -1,0 +1,17 @@
+November 9 , 2015 
+
+Questions :
+
+Are you ready to begin coding your game?
+Why or why not?
+What will be your biggest challenges?
+Why?
+
+
+
+Answers : 
+I am ready to start my game and am very exicited , because it will be my first time
+creating somethings like this, i think my biggest challenge for creating the game will 
+be creating a working combat system that integrates well with game because ,  making
+it is extremely complex and hard to create.
+
