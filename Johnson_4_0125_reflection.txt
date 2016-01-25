@@ -1,0 +1,8 @@
+January 25 , 2016
+
+	I could have focused on finsihing other parts of the game, isntead of working on smaller
+parts , 
+
+	I start by reviewing my code, and checking for syntax or logic errors, i then check to 
+see if fixing said errors fixes the problem , if not then I look closer on more likely areas
+and if i still cannot fix the problem i then ask for a second perspective from a teacher or peer
