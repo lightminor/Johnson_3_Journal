@@ -1,0 +1,19 @@
+					Journal
+	 Friday, January 29, 2016
+
+	
+What is a class constructor?
+A class constructor is a method that creates classes(objects specificly) to be used
+in later methods and where needed.
+
+What should be included in a class constructor for orbs? Why?
+At least one ArrayList and variables that help the main game identify and
+put the orbs in the game , such as X and Y coordinates and booleans like "isVisible"
+this helps the game figure out what to do with the game and how to use it in context with 
+the other components of the game
+
+What methods should the orb have? why? 
+The orb should have methods declaring important variables, it should also have
+methods that choose the image used to represent it in-game. this would be 
+benifical because it makes the main code (Unwavering) not as messy and allows for 
+seperation of the code which makes it easier to understand and read
