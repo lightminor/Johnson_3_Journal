@@ -1,0 +1,9 @@
+Monday , Febuary 8 , 2016
+
+
+					Journal
+
+How would one check to see whether weapons damage enemies or objects in Slick?
+
+you could create a hitbox for your weapon and if it intersects with the enemies hitbox
+then the enemy could take damage
