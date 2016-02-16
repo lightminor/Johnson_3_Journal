@@ -1,0 +1,19 @@
+Wensday , February 10 , 2016 
+
+
+					Journal
+
+
+Make a list of ten problems (e.g., FAQs) you have faced when adding orbs to your game
+
+	Problems 
+ -Getting the Image to Work
+ -Creating a hitbox for the orb
+ -checking if the hitbox intsected with anything
+ -making it disapear if it touches a blocked tile
+ -creating a counter for the orb
+ -getting the orb to move
+ -getting the orb to show up in the first place
+ -deciding how to make the orb work
+ -checking if the orb has existed for a X seconds
+ -making enemies disapear

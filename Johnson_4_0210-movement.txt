@@ -13,12 +13,4 @@ To make my orb move i could make a method that changes its x and y every hundred
 and run that method for every tile that passes through
 
 
-private int timerun;
 
-if(Player.direction == up){
-	Orb.x = Orb.x + 5;
-	timerun++;
-     if(timerun >= 10){
-	Orb.x = 20000;
-	Orb.y = 20000;
-}

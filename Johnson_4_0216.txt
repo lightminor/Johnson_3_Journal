@@ -1,0 +1,11 @@
+Tuesday , February 16 , 2016
+
+
+					Journal
+
+Describe: How was an array used in your Slick game?
+An Array was used to check the length and width of the map for my game
+
+
+What might be another use for an array in a different program?
+to return the values of other variables from outside sources
