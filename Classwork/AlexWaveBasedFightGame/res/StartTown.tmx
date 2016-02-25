@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="150" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Base Tiles" tilewidth="32" tileheight="32" tilecount="1024">
+  <image source="terrain.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="More Tiles" tilewidth="32" tileheight="32" tilecount="1024">
+  <image source="terrain_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="2049" name="Buildings" tilewidth="32" tileheight="32" tilecount="1024">
+  <image source="base_out_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="3073" name="Buildings Inside" tilewidth="32" tileheight="32" tilecount="384">
+  <image source="LPC_city_inside/city_inside.png" width="768" height="512"/>
+ </tileset>
+ <tileset firstgid="3457" name="Buildings Inside 2" tilewidth="32" tileheight="32" tilecount="256">
+  <image source="LPC_house_interior/interior.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="80" height="150">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3W0W3CMBQFUGeIrkKZJO03e2S0zNGOU1CxZJ5sh1IoSXU+jgIo2H43z0kOQ0oHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACADXlZwRqAn/tIKb0N3z7T89ezJafs3o/H+XicjsZzjs9e15qV/XbKbjpnlzOc9GA3u7Lfcm5zyPDZ61yjnN2U6vRf376S3Rxy+8v8tvbcivnVciv37yPri3shP7fWmGfOId/34r2uJp6f67tHXWV2rfWM57leF2p6VM6tZ+x0ZX6xrmw3XNZUzrPUP63r2NoTca44Rplzq/af9HMvs969bim/8re4z2IfxffI3rmt7PJx1+nb2nkx21LcP7WMW312L3NDnCvmU+vjpXlq+e2H+njjcNnXvbnGRla93O6d4y153/LfMfRL613/lrFr32vXfKvy+mNvxevRqn0On1vXcus5XZNhzOO3Yy6N8V8ynRufezk/e80AAAAAAAAAAAAAAAAAAAAAQEpfHJVImYC7AAA=
+  </data>
+ </layer>
+ <layer name="Grass" width="80" height="150">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3BMQEAAADCoPVP7WkJoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBkeYqQqAuwAA
+  </data>
+ </layer>
+ <layer name="Road" width="80" height="150">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3U0WqDMABA0f5sP81959jDQJw65cah7BwIbamk8Sb29bqX92xwnn6Nfo1+jX6Nfo1+jX6Nfo1+jX6Nfo1+jX6Nfo1+jX6Nfo1+jX6Nfo1+jX6Nfo1+jX7N0/q9DcN47LibO6/tCfRr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a0b3+5pnWsw7akyD1jjSyH5XzXXnZ2TU2qbXz3M3zV7Xvv/trK29v5sR/ZadrrzPvc57e7G1t8trtvb5yBxHz8Teb1x9RvbW93Hyfoqz/8Xfzbb81fN1Zq/Xxpm+R8760TmnjevnnwEAAAAAAAAAAAAAAAAAAAAAAAAAAADgv/kE75xmjIC7AAA=
+  </data>
+ </layer>
+ <layer name="Dirt to Grass Transition" width="80" height="150">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3bbU7bQBiFUaespLASyEoaqStDZSHdSjcCI7DqWuOP5NpkUs6RXgUwcZwn9uSXu64tD4f3x++H6x7HrdIvo19Gv4x+Gf0y+mX0y+iX0S+jX0a/jH4Z/TL6ZfTL6JfRL6NfRr+Mfhn9Mvpl9Mvol9Evc2v9ng5tzfGj22MDx7JmWvKzMq37dmhr7j4+00MDx7JmWnNr619r9Mvol9Evo19Gv4x+Gf0y+mX0y+iX0S+jX0a/jH4Z/TL6ZfTL6JfRL6NfRr+Mfhn9Mvpl9Mvol9Evo19Gv4x+Gf0y+mX0y+iX0S+jX0a/jH4Z/TJb9/vdfZ37t4ot+5V25X66X937vHTzP09t7+cWbNVv2G7Pe8Fas0W/vl05h0q7P1sc2IQ914ZLprzvct9lcv/q8Lzbs10xvN77WVojxuvF3Lox3u9LZZZev/b3qX30j5/Rrrj2/Z97TdLu8W2eJuaYJ/9v9d0e3uZ5Yu67f3vy149uuls/1JVzb3jesV7SbmqtXLtO1p5/S2vsuN25/abWyrJOLnWovXZtjU1nj89j+F1x6i6/bufWyqUOc99TW87wOI7d8jUz3l57ztSxJ/2WerYw9zPvve883j58zmlh/5f0q/1+7vsa72PueOa2X+tz2dOac/SS/SWv9zzx/+f2+ox+NafK7Gnt+T7X9qtbc84CAAAAAAAAAAAAAAAAAAAAAAAATHkFLrQT2oC7AAA=
+  </data>
+ </layer>
+ <layer name="Sand To Grass Transition" width="80" height="150">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3WQXKDIBgGUDyD7UmSm+Xq7b7JghmkIKBNTNL3ZtwYEP5PCIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwGuYphI/r9TkdPZPnF7NKr+/r/cv0+2JpTrI6F/KS37rTQFbyW5rt013ytdcr/b/8z+fLaWN26Zr9CuM55ufVrW/pDOtpc8T7i/OIOYyo7feYY1pTrcb43s5J39pzL402t/vx+Wv7Ys+eyftu3behUWOt1rzGVlajY8Z3l4+Z1r82n9J6Tu/nffP5j+bXqq/0HVSqceu5Veo3Ombtt/z+2jfdX+tZm3uza41X+r3nu/Zec9xaU0+bvXPqecZomyMyO0JvfSP1v2tWJe++Ph5BdgAAAAAAAAAAAAAAAAAAAAAA8Bg/qSShnoC7AAA=
+  </data>
+ </layer>
+ <layer name="Trees" width="80" height="150">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3BMQEAAADCoPVP7WkJoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBkeYqQqAuwAA
+  </data>
+ </layer>
+ <layer name="Market" width="80" height="150">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3QwQkAMAgAMd/d3FHc0hmKSCkkExwXAQAAbMvzuuBv5d+IfwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCtBnwvUdKAuwAA
+  </data>
+ </layer>
+</map>
