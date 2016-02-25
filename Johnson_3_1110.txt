@@ -1,0 +1,6 @@
+November 10 , 2015
+
+	I could use a while loop to continuesly check 
+
+	
+	by making variables for each item , and for HP.

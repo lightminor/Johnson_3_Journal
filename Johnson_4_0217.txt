@@ -1,0 +1,29 @@
+Wensday , February 17 , 2016
+
+					Journal
+
+What are arrays used for?
+An array is an container that holds a certain amount values or variables of one type
+
+What is the code for an int array?
+private String() Name = new String(3)
+
+What is the code for an String array?
+
+What is the code for an boolean array?
+
+What is the code for an double array?
+
+How would you change the first value of the int array to 42?
+
+Of the String array to "Bob"?
+
+What does this do: private String[] dessert = new String[3];
+
+What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
+
+How are they different?
+
+How would we replace "bunuelos" with "apple pie"?
+
+

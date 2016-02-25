@@ -1,0 +1,11 @@
+Monday , Febuary 1st , 2016
+
+
+					Journal
+
+
+Describe what you will have to do to clean up your code to make the program
+more your own (and legible).
+
+To make my game my own , i will add a combat system, new items and abilities,
+and custom characters and enemies

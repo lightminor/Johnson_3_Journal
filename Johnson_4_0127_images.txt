@@ -1,0 +1,14 @@
+					Journal,
+
+
+	January 27, Wensday , 2016
+
+
+
+How do you add an image to a slick game?
+	first find an image you want to use, and putting in the res folder, then call said image
+	and .draw it which brings it into the game
+
+Where is the image drawn? [What code? Be specific.]
+	The image is drawn in a method usasally in the main body of the code, an example would be:
+	B.currentImage.draw(B.x , B.y);

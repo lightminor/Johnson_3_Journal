@@ -1,0 +1,12 @@
+November , 11 , 2015
+
+
+	In your game, what challenges must your player solve?
+
+How will you specifically track whether they have been solved?
+
+Provide variable names and types. Classes if applicable. 
+
+
+	the player must fight enemies and , by using while loops
+	I might use Enemy1 or maybe Guard2

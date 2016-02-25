@@ -1,0 +1,14 @@
+Thursday , Febuary 4th , 2016 
+
+			
+					Journal
+
+
+We will be revising our games so that they are more 'finished'. This will require revision
+and retweaking.
+
+Why bother with revising and resubmitting?
+
+Revising your code allows you to make it more flexible and fix errors in code or 
+logic-based systems, it also allows you to learn problem solving and get a hang
+of the code and syntax.

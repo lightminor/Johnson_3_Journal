@@ -1,0 +1,16 @@
+Wensday , February 10th , 2016
+
+					Journal
+
+
+
+
+
+How can / will you make the orb move in the direction you are facing?
+Explain and provide specific code.
+
+To make my orb move i could make a method that changes its x and y every hundred miliseconds
+and run that method for every tile that passes through
+
+
+

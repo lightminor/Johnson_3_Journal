@@ -1,0 +1,12 @@
+					Journal
+Thursday , 28 , January 2016
+
+
+What is this?: 
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g) 
+throws SlickException {
+	this is a method that puts all the components together and renders them in the game
+
+
+Is it a class or method? How do you know?
+	it is a method becuase it uses the code public void , which indicates it as a method

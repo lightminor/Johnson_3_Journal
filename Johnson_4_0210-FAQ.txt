@@ -1,0 +1,16 @@
+Wensday , Febuary 10 , 2016 
+
+				Journal
+
+Make a list of ten problems (e.g., FAQs) you have faced when adding orbs to your game.
+
+-Getting the orb to show up
+-making enemies disapear
+-creating the hitbox
+-getting it to find the image
+-checking if the hitbox touches anything
+-making the orb disapear after touching a blocked square
+-making the orb move
+-moving the code to the Orb
+-creating a counter
+-fixing the Orb Code

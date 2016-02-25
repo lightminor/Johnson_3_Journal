@@ -1,0 +1,30 @@
+Wensday , February 24 , 2016
+
+
+					Wensday
+
+
+Define a class Rat
+A class named Rat
+
+Provide the code to declare and instatiate Rats
+public class Rat{
+Rat brownrat = new Rat();
+
+}
+Rat brownrat = new Rat();
+
+
+Explain where the decaration and initialization are placed
+in the registry of the relevant class
+
+Provode a two-dimensional array that specifies coordinates for five rats
+public void main(String[] arguments0{
+Rat ratz = new Rat();
+	ratz.createRat("Brown", 16 , 16);
+	ratz.createRat("Yellow", 10 , 1);
+	ratz.createRat("Black", 12 , 2);
+	ratz.createRat("Rusty", 23 , 22);	
+	ratz.createRat("Orange", 0 , 0);
+
+}
