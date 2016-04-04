@@ -1,0 +1,18 @@
+Monday , April 4th , 2016
+
+Describe the progress you have made on your project.
+we have started making the actual music and decided on which song to use
+
+What have you done?
+we have started coding the music
+What do you need to do?
+a wooden box with a button
+
+What will you be able to turn in on Friday?
+hopefully the music box
+
+What code changes are you writing?
+the frequency and type of music that will be played
+
+What functions have you created?
+i have started on making it make music
