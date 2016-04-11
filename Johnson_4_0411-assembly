@@ -1,0 +1,31 @@
+Monday , April 11 , 2016
+
+	
+    What is assembly?
+it is an programming language used for converting high-level code to machine code
+
+   What is it good for?
+it is used for coverting languages like to C to machine code 
+
+    How is assembly different than Java?
+java and assembly are extreme opposites , java is an top-level programming language that is 
+easily understandable and very portable while assembly is a ultra-low level
+machine code conversion language that is virtually unportable and 
+relativly hard to understand though easier than actual machine code
+
+    What are differences between high level and low level languages?
+high level languages are easily portable and easier to debug and understand while 
+lower level languages are not portable and are harder to debug and is very machine dependent
+   
+ Which type is Java? How do you know, i.e., what characteristics does it have of
+     that language type?
+java is an high-level programming language that is easy to understand and debug and is not 
+machine dependent meaning it can be moved from one computer to another and still be understood
+by the new computer 
+    
+Which type is Assembly? How do you know, i.e., what characteristics does it have of
+     that language type?
+assembly is a low-level language that is machine-dependent and harder to understand though 
+it is easier to understand than machine code which is notoriously hard to work with, it is 
+not portable and debugging is a greuling proccess
+
