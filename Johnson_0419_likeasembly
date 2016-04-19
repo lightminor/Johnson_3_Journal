@@ -1,0 +1,12 @@
+Tuesday , April 19th , 2016
+
+
+					Journal
+
+Describe - what similarities do you notice between assembly and Human Resource Machine?
+Both Human Resource Machine and Assembly , use simmilar commands , such as jump ,
+ or jump if *state condition*
+Describe - what differences do you notice between assembly and Human Resource Machine?
+Human Resource Machine and Assembly differ in that , Resource Machine only has two 
+specific jump conditions which are preset , while Assembly uses a open ended condition statement
+which allows it to become more flexible and use different conditions each time
