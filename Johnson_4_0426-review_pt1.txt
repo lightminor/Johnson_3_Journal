@@ -1,0 +1,23 @@
+Tuesday , the 26 of April
+
+
+		
+    Write a Java method to return the cubed value of some number.
+
+public int number;
+public int result = getresult();
+
+	public  float getresult() {
+
+		return number * number * number;
+
+	}
+system.out.println((int)result);
+    Write an Arduino function to return the cubed value of some number.
+
+    Create the class, an object, and class constructor for class student
+public class Student{
+}
+public Student student1 = new Student
+    Describe - if we were to continue with Arduino - what would you create?
+I would try to finish my music box
