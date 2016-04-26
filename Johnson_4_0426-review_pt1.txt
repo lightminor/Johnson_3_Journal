@@ -1,5 +1,5 @@
 Tuesday , the 26 of April
-
+a
 
 		
     Write a Java method to return the cubed value of some number.
