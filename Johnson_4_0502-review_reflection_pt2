@@ -1,0 +1,44 @@
+Monday , May 2nd , 2016
+					Journal
+
+In the Array Game assignment you have had to review and revisit concepts you may have forgotten 
+about. These will all be tested on the final exam!
+
+What is an array?
+an array is a container that can carry multiple different values, but only from a 
+single data type
+
+How does one make a simple array of Strings?
+String[] TheStringArray = new String[]{"x","y","z"};
+What is the syntax for a 2-D array?
+int[][] 2d = new int [10][10];
+What is the syntax for a 3-D array?
+int[][][] 3d =  new int [10][10][10]
+How does one change the value for the third value in a one dimensional array? [Give specific code]
+int[3] = 8;
+What is the syntax for a while loop?
+x = 0;
+
+while (x < 3){
+system.out.println("x = " + x);
+x++
+}
+
+Why use while loops in your game?
+while loops allow you to do many more things, faster and  easier than without.
+ 
+Your game should be in a method outside of main --- How will you call your game in main?
+by calling the method that my game is in.
+
+Why was it recommended that you use .toLowerCase() with your Scanner input?
+it allows the computer to pick up on lowercase input instead of just uppercase
+
+You should use different methods when moving the protagonist and to check for intersections. 
+How? Why?
+by calling the methods where necassary , you should do this beacuse it allows for cleaner more
+organized code.
+
+What values will you pass across methods? how? why
+you would pass values like the protaganist coordinates and the coordiantes of the traps
+because it would allow you to have the protaginst and traps interact and allow more 
+complex gameplay 
