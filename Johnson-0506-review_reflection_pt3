@@ -1,0 +1,90 @@
+Friday , May 6th , 2016
+
+					Journals
+
+
+    Given mymap[67][43] 
+	Which is the x coordinate?
+	the x coordinate is the second value 
+
+	Which is the y coordinate? Why?
+	the y is the first value.
+	this is becuase it looks for the lateral value first which is actually the on the y axis	 
+
+     
+
+    Consider:
+
+            for (int i = 0; i <= map[0].length - 1; i++) {
+                for (int j = 0; j <= map[1].length - 1; j++) {
+if (i=0){ System.out.print("8888"); #a
+                    if (j < map[1].length - 1) {
+                      if (i=0){ System.out.print("8888"); #a
+                        } else if (map[i][j] != 'x') {
+                            System.out.print("."); #e
+                        } else {
+                            System.out.print(map[i][j]); #b
+                        }
+                    } else {
+                        if (map[i][j] != 'x') {
+                            System.out.println("."); #c
+                        } else {
+                            System.out.println(map[i][j]); #d
+                        }
+                    }
+                }
+            }
+        }
+            
+            
+          
+
+    Write the code from line #a and explain what it does.
+if (i=0){ System.out.print("8888");
+this prints "8888" if the coordinate is in the y axis
+
+
+    Write the code from line #b and explain what it does.
+System.out.print(map[i][j]); 
+it prints the values of all array points ie if the array point [2][2] = 'a'
+then at that point it prints that value 
+
+
+    Write the code from line #c and explain what it does. Explain how its different than #e
+System.out.println("."); 
+e prints the words written on the same line and c prints the words written on a new line
+
+
+    Write the code from line #d and explain what it does.
+System.out.println(map[i][j]); 
+this prints the values of all array points and puts each one on a new line
+
+
+    
+    Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+    boolean isdead = false;
+    while (isdead == false){
+    playthegame();
+    if(isdead == true){
+    deathscreen();
+    }
+    }
+    
+    Explain the use of static.
+    static means that the variable it is affecting is always the same across all given
+    examples of the varible and nomatter where in the code it is
+    
+    
+    Provide an example of how you could use an object with your game. Give a code example.
+    public class Player{
+    boolean isdead = false;
+    int x;
+    int y;
+    }
+    Player player1 = new Player;
+    if (player1.x == trap.x && player1.y ==  trap.y){
+    deathscreen();
+    } 
+    
+    
+
