@@ -1,0 +1,72 @@
+
+    Create a class for 'hero'
+	Player Alex = new Player();
+public class Player{
+        int health = 100;
+        int weapon = 0;
+        int level = 0;
+        int dex = 3;
+
+        public int getHealth() {
+            return health;
+        }
+
+        public void setHealth(int health) {
+            this.health = health;
+        }
+
+        public int getWeapon() {
+            return weapon;
+        }
+
+        public void setWeapon(int weapon) {
+            this.weapon = weapon;
+        }
+
+        public int getLevel() {
+            return level;
+        }
+
+        public void setLevel(int level) {
+            this.level = level;
+        }
+
+        public int getDex() {
+            return dex;
+        }
+
+        public void setDex(int dex) {
+            this.dex = dex;
+        }
+
+        public int getPerception() {
+            return perception;
+        }
+
+        public void setPerception(int perception) {
+            this.perception = perception;
+        }
+
+        public int getScore() {
+            return score;
+        }
+
+        public void setScore(int score) {
+            this.score = score;
+        }
+        int perception = 3;
+        int score = 0;
+    }
+}
+    The class should contain:
+    variables for health, score, power/weapon, dexterity, perception, level, x, y, z, and a symbol
+    There should also be a class constructor accepting inputs for name, x, y, and symbol
+    Provide an example of initializing a hero object with your name
+
+Player Alex = new Player();
+
+    Explain why you would not initialize the hero in class hero.
+
+you would not intialize the hero in the hero class because it would 
+be counter-productive it would not be able to set values for that class 
+because it the object itself is set in the class
